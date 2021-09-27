@@ -1,0 +1,5 @@
+09:31:53.653 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - FilterSearch TestCase Executed
+09:31:56.002 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - TableSale TestCase Executed
+09:31:58.526 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - DecorList TestCase Executed
+09:32:02.676 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Driver is closed
+09:36:32.966 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Driver is initialized

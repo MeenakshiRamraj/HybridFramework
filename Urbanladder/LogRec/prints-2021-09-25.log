@@ -1,0 +1,5 @@
+23:19:17.653 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - This is an info message
+23:19:22.317 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Driver is closed
+23:34:51.740 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Driver is initialized
+23:35:17.038 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Logged in
+23:35:24.717 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - This is an info message

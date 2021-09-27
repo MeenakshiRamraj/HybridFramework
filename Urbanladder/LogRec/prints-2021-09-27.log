@@ -1,0 +1,5 @@
+09:31:05.368 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Driver is initialized
+09:31:29.456 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Login Page TestCase Executed
+09:31:39.890 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Giftcards Page TestCase Executed
+09:31:44.937 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - SearchProduct TestCase Executed
+09:31:48.806 [main] INFO  com.urbanladder.reusablecomponent.ReusableComponents - Help Page TestCase Executed
