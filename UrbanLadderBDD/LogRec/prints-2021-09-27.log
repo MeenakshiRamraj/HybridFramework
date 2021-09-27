@@ -1,0 +1,5 @@
+16:55:15.957 [main] INFO  com.urbanladderBDD.StepDefinition.StepDefinition - Help Page TestCase Executed
+16:55:21.413 [main] INFO  com.urbanladderBDD.StepDefinition.StepDefinition - TableSale TestCase Executed
+16:55:27.638 [main] INFO  com.urbanladderBDD.StepDefinition.StepDefinition - Driver is closed
+16:57:27.927 [main] INFO  com.urbanladderBDD.StepDefinition.StepDefinition - Driver is initialized
+16:57:52.633 [main] INFO  com.urbanladderBDD.StepDefinition.StepDefinition - Login Page TestCase Executed
